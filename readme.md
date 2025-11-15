@@ -7,6 +7,7 @@ Para el examen se propone crear un catálogo de pelíclas que se mostrarán en u
 
 ## Datos del estudiante
 - [Dario Alexis Hernandez Vilaña]
+- [Tercer semestre ingeniería en Software]
 
 ## Objetivos 
 
