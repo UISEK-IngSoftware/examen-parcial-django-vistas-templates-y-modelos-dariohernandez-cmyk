@@ -158,3 +158,5 @@ SOCIALACCOUNT_PROVIDERS = {
 LOGIN_REDIRECT_URL = '/api/'   # o la ruta que prefieras
 
 LOGOUT_REDIRECT_URL = '/'
+
+# se termino
